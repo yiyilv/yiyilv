@@ -10,7 +10,7 @@ I’m an MSc student in Geoinformatics Engineering at Politecnico di Milano, on 
 |---|---|
 | [StormEngine-DL](https://github.com/yiyilv/StormEngine-DL) | Sparse-to-grid weather forecasting over the Adriatic: SetConv, ConvGRU, and six-hour multivariable forecasts. |
 | [ATL08 Python toolkit (GP_Project)](https://github.com/yiyilv/GP_Project) | A Python package and CLI for ICESat-2 ATL08 extraction, quality filtering, spatial masking, and GIS export. |
-| Prithvi-EO land cover | Adapting an Earth observation foundation model to Sentinel-2 land-cover classification. Code repository in preparation. |
+| [Prithvi-EO land cover](https://github.com/yiyilv/Prithvi-EO) | Adapting the Prithvi-EO v2 300M model for LUCAS land-cover classification with NASA HLS; cleaned training and split-generation code. |
 | [Cyanea ML](https://github.com/yiyilv/Cyanea-ML2) | Feature engineering and classification for user behaviour recognition. |
 | [Air Pollution WebGIS](https://github.com/yiyilv/air_pollution_web) | A web mapping application for exploring air pollution data. |
 | Urban Thermal GeoAI | Exploring urban environments with Earth observation, PCA, and clustering in an ESA workshop team project. Project repository in preparation. |
