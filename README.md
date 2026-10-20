@@ -8,19 +8,16 @@ I’m an MSc student in Geoinformatics Engineering at Politecnico di Milano, on 
 
 | Project | Focus |
 |---|---|
-| [StormEngine-DL](https://github.com/yiyilv/StormEngine-DL) | Sparse-to-grid weather forecasting over the Adriatic: SetConv, ConvGRU, and six-hour multivariable forecasts. |
-| [ATL08KIT](https://github.com/yiyilv/ATL08KIT) | A Python package and CLI for ICESat-2 ATL08 extraction, quality filtering, spatial masking, and GIS export. |
-| [Prithvi-EO land cover](https://github.com/yiyilv/Prithvi-EO) | Adapting the Prithvi-EO v2 300M model for LUCAS land-cover classification with NASA HLS; cleaned training and split-generation code. |
-| [Cyanea ML](https://github.com/yiyilv/Cyanea-ML2) | Feature engineering and classification for user behaviour recognition. |
+| [StormEngine-DL · Weather Forecasting](https://github.com/yiyilv/StormEngine-DL) | Sparse-to-grid weather forecasting over the Adriatic: SetConv, ConvGRU, and six-hour multivariable forecasts. |
+| [ATL08 Toolkit](https://github.com/yiyilv/ATL08KIT) | A Python package and CLI for ICESat-2 ATL08 extraction, quality filtering, spatial masking, and GIS export. |
+| [GeoAI · Prithvi Land-Cover Classification](https://github.com/yiyilv/Prithvi-EO) | A GeoAI course project using the Prithvi-EO v2 foundation model for LUCAS land-cover classification with NASA HLS imagery. |
 | [Air Pollution WebGIS](https://github.com/yiyilv/air_pollution_web) | A web mapping application for exploring air pollution data. |
-| Urban Thermal GeoAI | Exploring urban environments with Earth observation, PCA, and clustering in an ESA workshop team project. Project repository in preparation. |
 
 ## More projects
 
 | Project | Focus |
 |---|---|
-| [ClassroomPlanner](https://github.com/yiyilv/ClassroomPlanner) | C++20 and Vulkan classroom layout editor with furniture interaction, camera controls, and JSON layout persistence. |
-| [Satellite altimetry workflows](https://github.com/yiyilv/underground_water) | Research notebooks for ATL08 quality-rule comparison, elevation control-point preparation, and GIS mapping. |
+| [Classroom Planner · C++ / Vulkan](https://github.com/yiyilv/ClassroomPlanner) | C++20 and Vulkan classroom layout editor with furniture interaction, camera controls, and JSON layout persistence. |
 
 ## Tools I work with
 
