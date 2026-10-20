@@ -8,16 +8,16 @@ I’m an MSc student in Geoinformatics Engineering at Politecnico di Milano, on 
 
 | Project | Focus |
 |---|---|
-| [StormEngine-DL · Weather Forecasting](https://github.com/yiyilv/StormEngine-DL) | Sparse-to-grid weather forecasting over the Adriatic: SetConv, ConvGRU, and six-hour multivariable forecasts. |
-| [ATL08 Toolkit](https://github.com/yiyilv/ATL08KIT) | A Python package and CLI for ICESat-2 ATL08 extraction, quality filtering, spatial masking, and GIS export. |
-| [GeoAI · Prithvi Land-Cover Classification](https://github.com/yiyilv/Prithvi-EO) | A GeoAI course project using the Prithvi-EO v2 foundation model for LUCAS land-cover classification with NASA HLS imagery. |
-| [Air Pollution WebGIS](https://github.com/yiyilv/air_pollution_web) | A web mapping application for exploring air pollution data. |
+| [StormEngine-DL_Weather_Forecasting](https://github.com/yiyilv/StormEngine-DL) | Sparse-to-grid weather forecasting over the Adriatic: SetConv, ConvGRU, and six-hour multivariable forecasts. |
+| [ATL08_Toolkit](https://github.com/yiyilv/ATL08KIT) | A Python package and CLI for ICESat-2 ATL08 extraction, quality filtering, spatial masking, and GIS export. |
+| [GeoAI_Prithvi_Land-Cover_Classification](https://github.com/yiyilv/Prithvi-EO) | A GeoAI course project using the Prithvi-EO v2 foundation model for LUCAS land-cover classification with NASA HLS imagery. |
+| [Air_Pollution_WebGIS](https://github.com/yiyilv/air_pollution_web) | A web mapping application for exploring air pollution data. |
 
 ## More projects
 
 | Project | Focus |
 |---|---|
-| [Classroom Planner · C++ / Vulkan](https://github.com/yiyilv/ClassroomPlanner) | C++20 and Vulkan classroom layout editor with furniture interaction, camera controls, and JSON layout persistence. |
+| [Classroom_Planner_C++_Vulkan](https://github.com/yiyilv/ClassroomPlanner) | C++20 and Vulkan classroom layout editor with furniture interaction, camera controls, and JSON layout persistence. |
 
 ## Tools I work with
 
